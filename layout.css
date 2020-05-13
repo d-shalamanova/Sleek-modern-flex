@@ -1,0 +1,24 @@
+.site-wrapper{
+    max-width: 75rem;
+    margin: 0 auto;
+}
+
+.site-header{
+
+}
+
+
+
+.site-content .site-wrapper{
+position: relative;
+z-index: 30;
+top: -3em;
+box-shadow: 0 0 1em  rgba(0,0,0,0.1)
+}
+
+
+
+.site-footer{
+
+
+}
